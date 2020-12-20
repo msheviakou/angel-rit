@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://angel-rit.by/sitemap.xml
